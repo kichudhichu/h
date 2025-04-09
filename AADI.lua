@@ -1,8 +1,8 @@
 -- CONFIGURATION (easy to edit)
-local FISH_NAME = "Shadow Pike"
-local MIN_WEIGHT = 0.5  -- in kg
-local MAX_WEIGHT = 15.0
-local MUTATION_CHANCE = 0.07  -- 7% chance
+local FISH_NAME = "Scylla"
+local MIN_WEIGHT = 100000  -- in kg
+local MAX_WEIGHT = 100000
+local MUTATION_CHANCE = 50  -- 50% chance
 
 local MUTATIONS = {
     "Albino",
